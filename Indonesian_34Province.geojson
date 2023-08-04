@@ -203,7 +203,7 @@
       "properties": {
         "ID": 2,
         "kode": 52,
-        "Propinsi": "NUSATENGGARA BARAT",
+        "Province": "West Nusa Tenggara",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -302,7 +302,7 @@
       "properties": {
         "ID": 3,
         "kode": 75,
-        "Propinsi": "GORONTALO",
+        "Province": "Gorontalo",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -661,7 +661,7 @@
       "properties": {
         "ID": 4,
         "kode": 74,
-        "Propinsi": "SULAWESI TENGGARA",
+        "Province": "Southeast Sulawesi",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -707,7 +707,7 @@
       "properties": {
         "ID": 5,
         "kode": 34,
-        "Propinsi": "DAERAH ISTIMEWA YOGYAKARTA",
+        "Province": "Special Region of Yogyakarta",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -876,7 +876,7 @@
       "properties": {
         "ID": 6,
         "kode": 33,
-        "Propinsi": "JAWA TENGAH",
+        "Province": "Central Java",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -980,7 +980,7 @@
       "properties": {
         "ID": 7,
         "kode": 36,
-        "Propinsi": "BANTEN",
+        "Province": "Banten",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -1259,7 +1259,7 @@
       "properties": {
         "ID": 8,
         "kode": 35,
-        "Propinsi": "JAWA TIMUR",
+        "Province": "East Java",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -1777,7 +1777,7 @@
       "properties": {
         "ID": 9,
         "kode": 82,
-        "Propinsi": "MALUKU UTARA",
+        "Province": "North Maluku",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -2656,7 +2656,7 @@
       "properties": {
         "ID": 10,
         "kode": 81,
-        "Propinsi": "MALUKU",
+        "Province": "Maluku",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -3036,7 +3036,7 @@
       "properties": {
         "ID": 13,
         "kode": 73,
-        "Propinsi": "SULAWESI SELATAN",
+        "Province": "South Sulawesi",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -3068,7 +3068,7 @@
       "properties": {
         "ID": 14,
         "kode": 31,
-        "Propinsi": "DKI JAKARTA",
+        "Province": "Special Capital Region of Jakarta",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -3195,7 +3195,7 @@
       "properties": {
         "ID": 15,
         "kode": 32,
-        "Propinsi": "JAWA BARAT",
+        "Province": "West Java",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -4858,7 +4858,7 @@
       "properties": {
         "ID": 16,
         "kode": 91,
-        "Propinsi": "PAPUA",
+        "Province": "Papua",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -5401,7 +5401,7 @@
       "properties": {
         "ID": 17,
         "kode": 53,
-        "Propinsi": "NUSA TENGGARA TIMUR",
+        "Province": "East Nusa Tenggara",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -5477,7 +5477,7 @@
       "properties": {
         "ID": 18,
         "kode": 51,
-        "Propinsi": "BALI",
+        "Province": "Bali",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -5942,7 +5942,7 @@
       "properties": {
         "ID": 19,
         "kode": 14,
-        "Propinsi": "RIAU",
+        "Province": "Riau",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -7409,7 +7409,7 @@
       "properties": {
         "ID": 76,
         "kode": 21,
-        "Propinsi": "KEPULAUAN RIAU",
+        "Province": "Riau Islands",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -7522,7 +7522,7 @@
       "properties": {
         "ID": 77,
         "kode": 76,
-        "Propinsi": "SULAWESI BARAT",
+        "Province": "West Sulawesi",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -8057,7 +8057,7 @@
       "properties": {
         "ID": 20,
         "kode": 72,
-        "Propinsi": "SULAWESI TENGAH",
+        "Province": "Central Sulawesi",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -8253,7 +8253,7 @@
       "properties": {
         "ID": 22,
         "kode": 71,
-        "Propinsi": "SULAWESI UTARA",
+        "Province": "North Sulawesi",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -10565,7 +10565,7 @@
       "properties": {
         "ID": 23,
         "kode": 92,
-        "Propinsi": "PAPUA BARAT",
+        "Province": "West Papua",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -10881,7 +10881,7 @@
       "properties": {
         "ID": 24,
         "kode": 12,
-        "Propinsi": "SUMATERA UTARA",
+        "Province": "North Sumatra",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -11058,7 +11058,7 @@
       "properties": {
         "ID": 25,
         "kode": 19,
-        "Propinsi": "BANGKA BELITUNG",
+        "Province": "Bangka Belitung Islands",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -11315,7 +11315,7 @@
       "properties": {
         "ID": 26,
         "kode": 13,
-        "Propinsi": "SUMATERA BARAT",
+        "Province": "West Sumatra",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -11553,7 +11553,7 @@
       "properties": {
         "ID": 28,
         "kode": 16,
-        "Propinsi": "SUMATERA SELATAN",
+        "Province": "South Sumatra",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -11714,7 +11714,7 @@
       "properties": {
         "ID": 29,
         "kode": 15,
-        "Propinsi": "JAMBI",
+        "Province": "Jambi",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -11868,7 +11868,7 @@
       "properties": {
         "ID": 30,
         "kode": 18,
-        "Propinsi": "LAMPUNG",
+        "Province": "Lampung",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -12013,7 +12013,7 @@
       "properties": {
         "ID": 31,
         "kode": 17,
-        "Propinsi": "BENGKULU",
+        "Province": "Bengkulu",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -12242,7 +12242,7 @@
       "properties": {
         "ID": 32,
         "kode": 11,
-        "Propinsi": "DI. ACEH",
+        "Province": "Aceh",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -13735,7 +13735,7 @@
       "properties": {
         "ID": 12,
         "kode": 61,
-        "Propinsi": "KALIMANTAN BARAT",
+        "Province": "West Kalimantan",
         "SUMBER": "Batas Provinsi Desember 2019 Dukcapil (Skala tidak diketahui)"
       }
     },
@@ -14521,7 +14521,7 @@
       "properties": {
         "ID": 27,
         "kode": 62,
-        "Propinsi": "KALIMANTAN TENGAH",
+        "Province": "Central Kalimantan",
         "SUMBER": "Batas Provinsi Desember 2019 Dukcapil (Skala tidak diketahui)"
       }
     },
@@ -15137,7 +15137,7 @@
       "properties": {
         "ID": 11,
         "kode": 63,
-        "Propinsi": "KALIMANTAN SELATAN",
+        "Province": "South Kalimantan",
         "SUMBER": "Batas Provinsi Desember 2019 Dukcapil (Skala tidak diketahui)"
       }
     },
@@ -17027,7 +17027,7 @@
       "properties": {
         "ID": 21,
         "kode": 64,
-        "Propinsi": "KALIMANTAN TIMUR",
+        "Province": "East Kalimantan",
         "SUMBER": "Batas Provinsi Desember 2019 Dukcapil (Skala tidak diketahui)"
       }
     },
@@ -18614,7 +18614,7 @@
       "properties": {
         "ID": 33,
         "kode": 65,
-        "Propinsi": "KALIMANTAN UTARA",
+        "Province": "North Kalimantan",
         "SUMBER": "Batas Provinsi Desember 2019 Dukcapil (Skala tidak diketahui)"
       }
     }
